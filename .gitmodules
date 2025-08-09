@@ -1,0 +1,3 @@
+[submodule "vendor/shade-agent-template"]
+	path = vendor/shade-agent-template
+	url = https://github.com/NearDeFi/shade-agent-template
